@@ -1,0 +1,20 @@
+{
+  "name": "elabx/fieldtype-fieldset-panel",
+  "description": "description",
+  "minimum-stability": "stable",
+  "type": "pw-module",
+  "keywords": ["processwire"],
+  "homepage": "github.com/elabx/fieldset-panel",
+  "license": "propietary",
+  "authors": [
+    {
+      "name": "Eduardo San Miguel Garcia",
+      "email": "abx88as@gmail.com",
+      "homepage": "https://github.com/elabx"
+    }
+  ],
+  "require": {
+    "wireframe-framework/processwire-composer-installer": "^1.1",
+    "php": ">=7.3"
+  }
+}
